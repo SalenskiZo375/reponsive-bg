@@ -1,0 +1,16 @@
+img {
+    height: auto;
+    max-width: 30%;
+    object-fit: cover;
+}
+
+
+body {
+    background-image: url(forrest.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    height: auto;
+    max-width: 100%;
+    object-fit: cover;
+}
